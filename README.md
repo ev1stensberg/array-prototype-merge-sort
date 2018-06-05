@@ -1,6 +1,6 @@
 # array-prototype-merge-sort
 
-Interpolation Search on array prototype
+Merge Sort on array prototype
 
 
 # Installation
